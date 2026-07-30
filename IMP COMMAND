@@ -1,0 +1,2 @@
+g++ "file name" -o output
+.\output
