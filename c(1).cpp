@@ -20,3 +20,8 @@ int main(){
     cout<<" "<<s1.name<<" "<<s1.rno<<" "<<s1.gpa<<endl;
     cout<<" "<<s2.name<<" "<<s2.rno<<" "<<s2.gpa<<endl;
 }
+
+
+/*output
+greeting message:hello
+*/
